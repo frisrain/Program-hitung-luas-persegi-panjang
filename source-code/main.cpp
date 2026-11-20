@@ -19,10 +19,10 @@ int main() {
 
 
     // 2. INPUT
-  cout << "Masukkan nilai persegi panjang: "<< endl;
+  cout << "Masukkan nilai panjang persegi panjang: "<< endl;
     cin >> p;
     
-    cout << "Masukkan nilai persegi panjang: "<< endl;
+    cout << "Masukkan nilai lebar persegi panjang: "<< endl;
     cin >> l;
 
 
